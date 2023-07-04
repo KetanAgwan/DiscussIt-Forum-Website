@@ -1,0 +1,33 @@
+@media only screen 
+and (min-device-width: 1200px) 
+and (max-device-width: 1250px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+	nav ul li{
+		padding: 0px;
+		font-size: 14px;
+		margin: 5px;
+	}
+
+	nav ul li .dropdown .dropbtn{
+		font-size: 14px;
+		padding: 0px;
+		margin: 2px;
+	}
+
+	.search{
+		width: 300px;
+		height: 30px;
+		padding: 50px;
+		margin-top:0px;
+		font-size: 12px;
+	}
+
+	.searchbtn{
+		margin-right: 2px;
+	}
+
+	.enter{
+		margin: 2px;
+	}
+}

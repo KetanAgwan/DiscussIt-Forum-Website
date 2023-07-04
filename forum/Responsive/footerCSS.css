@@ -1,0 +1,12 @@
+@media only screen 
+and (min-device-width: 1200px) 
+and (max-device-width: 1250px) {
+	.blob2{
+				height: 250px;
+		width: 250px;
+	}
+	.blob3{
+				height: 250px;
+		width: 250px;
+	}
+}

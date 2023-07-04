@@ -1,0 +1,18 @@
+@media only screen and (min-width: 1200px) and (max-width: 1600px) { 
+	
+	.jumbotron{
+			width: 80vw;
+			height: 30vh;
+			margin:20px 0px 30px 0px; 
+			padding: 10px;
+		}
+
+		.thread-form{
+			margin-top: 10px;
+		}
+
+		.jumbo-btn{
+			display: none;
+		}
+
+}

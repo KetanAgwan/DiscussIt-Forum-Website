@@ -1,0 +1,9 @@
+@media only screen 
+and (min-device-width: 1200px) 
+and (max-device-width: 1250px){ 
+
+  	.right-img{
+  		max-width: 300px;
+  		max-height: 300px;
+  	}
+}
